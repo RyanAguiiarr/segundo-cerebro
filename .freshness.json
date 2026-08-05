@@ -24,6 +24,9 @@
   },
   "exempt-dirs": [
     "arquivo",
-    "raw"
+    "raw",
+    ".obsidian-skill-source",
+    "projetos/tila"
   ]
 }
+

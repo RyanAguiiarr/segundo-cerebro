@@ -1,6 +1,6 @@
 # Índice Central do Cofre
 
-> **Última Atualização Automática:** 2026-08-04 (Agente Noturno)
+> **Última Atualização Automática:** 2026-08-05 (Agente Noturno)
 
 ## Estrutura por Tipo (`wiki/`)
 - `wiki/entities/` — Entidades (pessoas, empresas, ferramentas, lugares)

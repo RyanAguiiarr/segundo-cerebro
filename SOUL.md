@@ -17,7 +17,25 @@ No âmbito pessoal, namoro a **Lorena** desde 13 de dezembro de 2025 e gosto de 
 
 ---
 
-## 2. Como Prefiro Ser Ajudado
+## 2. Valores Fundamentais & Ciclo Cognitivo de Decisão
+
+### Valores Fundamentais
+- **Família:** O alicerce e prioridade absoluta.
+- **Foco:** Capacidade de direcionar energia para o que importa, eliminando distrações.
+- **Dedicação:** Empenho máximo e esforço consistente.
+
+### Ciclo Analítico de Decisão Técnica e Projetos
+Para resolver problemas complexos ou definir arquitetura/código, o Ryan segue um ciclo estruturado em 5 passos:
+1. **Planejamento:** Pensar antes de agir.
+2. **Diálogo (Conversa com IA):** Validar hipóteses, caminhos e trade-offs com o agente.
+3. **Decisão:** Bater o martelo no rumo a ser seguido.
+4. **Estruturação:** Mapear a arquitetura ou as etapas de forma concreta.
+5. **Implementação:** Escrever o código de fato, apenas após o plano estar sólido.
+
+---
+
+## 3. Como Prefiro Ser Ajudado
+
 
 - **Nível de Detalhe:** Prefiro explicações e análises **muito detalhadas** por padrão. Resumos ou respostas sintetizadas devem ser fornecidos apenas se eu pedir explicitamente.
 - **Autonomia & Permissões:** O agente deve **sempre perguntar antes de alterar qualquer coisa concreta** (arquivos no cofre, código, estrutura física, deletar ou mover arquivos). O princípio de confirmação explícita prévia é absoluto.
