@@ -1,12 +1,15 @@
 # MOC — Saúde
 
 ## Para o Claude futuro
-Hub central da área de Saúde e Condicionamento Físico. A seção 'Estado Atual' é rigorosamente composta por ponteiros com carimbos de data (valores como peso, batimentos ou medições voláteis NUNCA são gravados como números estáticos aqui).
+Hub central da área de Saúde e Condicionamento Físico. A seção 'Estado Atual' é rigorosamente composta por ponteiros com carimbos de data (valores como peso, batimentos ou medições voláteis NUNCA são gravados como números estáticos desacompanhados de data aqui).
 
 ## Estado Atual (Ponteiro)
 <!-- @generated:inicio -->
-- **Métricas Físicas (Peso, Sono, Suplementação):** Ver App/Planilha de Saúde (conforme_em: 2026-08-05) — *Aguardando definição de app/sistema de registro*.
+- **Métricas Físicas (Peso e Medições Biométricas):** Ver App/Planilha de Saúde (conforme_em: 2026-08-05)
 <!-- @generated:fim -->
+
+## Biometria Estável (Atemporal)
+- **Altura:** 1,70m (`atemporal`)
 
 ## Hábitos & Treinos Ativos
 - [[wiki/habitos/hab-treino-academia-matutino|Treino de Academia Matutino (Seg/Ter/Sex 06:00 - 07:20)]]
