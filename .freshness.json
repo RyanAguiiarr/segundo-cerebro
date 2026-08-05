@@ -1,0 +1,29 @@
+{
+  "window-days": 7,
+  "volatile-nouns": [
+    "saldo",
+    "saldos",
+    "peso",
+    "treino",
+    "treinos",
+    "renda",
+    "gasto",
+    "gastos",
+    "investimento",
+    "investimentos",
+    "meta",
+    "metas",
+    "pressao",
+    "glicemia",
+    "frequencia"
+  ],
+  "pointer-types": {
+    "bank": "https://banco.example.com",
+    "fitness": "https://fitness.example.com",
+    "sheets": "https://docs.google.com/spreadsheets"
+  },
+  "exempt-dirs": [
+    "arquivo",
+    "raw"
+  ]
+}

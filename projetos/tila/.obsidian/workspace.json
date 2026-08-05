@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "273a459518908b2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "14dc2607ac7f00cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e741d07828287a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db3d57e448e25ac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbbf6e4e150187c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c76cdf5e99aabaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "4e3d07d4c881df7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1f3782e7c06d153b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "023b9eb028b1dcd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ea858fd73fbb96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa87037d7d8fcbad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "context/coding-conventions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para coding-conventions"
+            }
+          },
+          {
+            "id": "ab0965e57526e9a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "context/coding-conventions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para coding-conventions"
+            }
+          },
+          {
+            "id": "435e4dbed7ed5a6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4e932c0800a6f399",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "721d2ff62d2d61ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "context/coding-conventions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de coding-conventions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "84e741d07828287a",
+  "lastOpenFiles": [
+    "05-Skills_Agentes/skill-ingest.md",
+    "07-Raw/sessions/2026-07-05-0200-session.md",
+    "05-Skills_Agentes/skill-dev-assistant.md",
+    "07-Raw/sessions/2026-06-19-2032-session.md",
+    "03-Codebase/patterns/padrão-genericresult.md",
+    "03-Codebase/patterns/padrão-css-vanilla.md",
+    "01-Negocio/contexto/ai-pipeline.md",
+    "07-Raw/sessions/2026-06-10-1935-session.md",
+    "00-Index/GuiaUsoAgenteIDE.md",
+    "07-Raw/sessions/2026-06-09-1630-session.md",
+    "wiki/concepts/backend-services.md",
+    "wiki/concepts/backend-patterns.md",
+    "wiki/concepts/backend-infrastructure-cache.md",
+    "wiki/sources/2026-06-03-langchain4j-multimodal.md",
+    "skills/skill-ingest.md",
+    "skills/skill-update-tila-skill.md",
+    "wiki/concepts/api-endpoints.md",
+    "wiki/concepts/langchain4j-multimodal-workaround.md",
+    "wiki/sources/2026-06-03-integracao-laudo-ia.md",
+    "raw/codebase/conversations/2026-06-03-integracao-laudo-ia.md",
+    "raw/codebase/conversations/2026-06-03-full-integration-ia.md",
+    "raw/codebase/conversations",
+    "raw/codebase/snapshots/2026-06-03-full-staged-changes-utf8.md",
+    "raw/codebase/snapshots/2026-06-03-full-staged-changes.md",
+    "wiki/concepts/rag-vs-llm-wiki.md",
+    "Clippings/Substituí o Claude Design… e Não Tem Limites (Open Design).md",
+    "raw/codebase/changelog/2026-05-16-ai-agent-foundation.md",
+    "Clippings"
+  ]
+}

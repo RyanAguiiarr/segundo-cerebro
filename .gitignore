@@ -1,0 +1,14 @@
+# Chaves de API e Segredos
+.env
+
+# Índices e Metadados Regeneráveis
+*.embeddings-index/
+.claude-runs/
+.obsidian-semantic-index.json
+
+# Caches, Ambientes e Fontes Externas
+__pycache__/
+*.pyc
+.venv/
+.obsidian-skill-source/
+
