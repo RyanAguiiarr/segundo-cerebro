@@ -6,9 +6,11 @@
 .claude-runs/
 .obsidian-semantic-index.json
 
-# Caches, Ambientes e Fontes Externas
+# Caches, Ambientes e Configurações Locais
 __pycache__/
 *.pyc
 .venv/
 .obsidian-skill-source/
+.obsidian/
+
 
