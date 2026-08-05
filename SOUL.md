@@ -9,7 +9,8 @@
 
 Sou o **Ryan Aguiar**, tenho 20 anos (nascido em 02/03/2006), moro em Novo Horizonte - SP e estudo no IFSP em Catanduva - SP. 
 
-Trabalho como **Desenvolvedor Júnior Full Stack** na empresa **Integrativa** em Catanduva - SP, atuando no sistema **Interlits** com tecnologia **.NET Core (C#)**, **Angular**, análise de problemas, correção de bugs e implementação de novas features.
+Trabalho como **Estagiário de Desenvolvimento Full Stack** (atuando com escopo de Dev Jr) na empresa **Integrativa** em Catanduva - SP, com objetivo ativo de efetivação para Dev Júnior formal. Atuo no sistema **Interlits** com tecnologia **.NET Core (C#)**, **Angular**, análise de problemas, correção de bugs e implementação de novas features.
+
 
 Tenho grande paixão por programação. Minha stack principal/favorita para projetos pessoais e estudo envolve **Java**, **Spring Boot**, **Angular**, **Engenharia de Software**, **Arquitetura de Sistemas** e **Inteligência Artificial**.
 
