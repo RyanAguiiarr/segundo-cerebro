@@ -18,7 +18,10 @@ relacao: namorada
 como_conheceu: "Relacionamento iniciado em 13/12/2025"
 ultimo_contato: "conforme_em: 2026-08-05"
 aniversario: 2006-02-13
+aliases:
+  - Lo
 relations: []
+
 ---
 
 ## Para o Claude futuro
