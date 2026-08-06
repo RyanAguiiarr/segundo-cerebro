@@ -10,10 +10,10 @@ freshness: atemporal
 confidence: alta
 source: conversa
 tags:
+  - arquivado
   - decisao
   - saude
   - corrida
-  - reconciliacao
 contexto: "O hábito de corrida de rua estava anteriormente registrado como 'status: pausado' em hab-corrida-na-rua.md."
 decisao: "Decidido retomar ativamente a corrida de rua pelo menos 1x por semana no horário das 15:30 às 16:00."
 alternativas_consideradas:
@@ -27,8 +27,10 @@ relations:
     target: "[[wiki/habitos/hab-corrida-na-rua]]"
 ---
 
+> **[ARQUIVADO em 2026-08-05]:** Decisão sobre corrida semanal movida para arquivamento a pedido do usuário enquanto reavalia a tomada de decisão por definitivo.
+
 ## Para o Claude futuro
-Nota de decisão que registra a contradição e alteração de estado do hábito de corrida de rua. Preserva o histórico anterior sem sobrescrever e aguarda harmonização via /reconciliar.
+Nota de decisão arquivada. Mantida no histórico do cofre para rastreabilidade não destrutiva.
 
 ## Registro Bitemporal
 - **Estado Anterior (2026-08-05):** `status: pausado` (corrida ocasional parada).
