@@ -14,7 +14,11 @@ tags:
   - empresa
   - carreira
 papel: empregador
+aliases:
+  - Integrativa
+  - Empresa Integrativa
 relations: []
+
 ---
 
 ## Para o Claude futuro

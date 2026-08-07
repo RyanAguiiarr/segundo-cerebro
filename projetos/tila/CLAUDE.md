@@ -201,7 +201,8 @@ O ciclo só termina quando o cérebro está atualizado e sincronizado.
 - Laudos must include "human review required" disclaimer
 - LGPD compliance is non-negotiable
 
-## Paths (verified 2026-06-18)
+## Paths (verified 2026-08-06)
+
 
 | Repo | Path |
 |---|---|
